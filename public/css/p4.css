@@ -1,0 +1,22 @@
+body {
+    margin-top: 20px;
+    font-family: 'Major Mono Display', monospace;
+    text-align: center
+}
+
+h1 {
+    font-weight: 400;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+section {
+    width: 400px;
+    margin: 0 auto;
+}
+
+#errors {
+    list-style: none;
+}
