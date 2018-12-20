@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef11d4d9-98ef-4282-9500-78654749f74a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/MoodSongTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/MoodSongTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/SongsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/SongsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/p4.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/p4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="ef11d4d9-98ef-4282-9500-78654749f74a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="6" />
-          <entry key="env" value="2" />
+          <entry key="env" value="3" />
           <entry key="gitignore" value="1" />
           <entry key="json" value="3" />
           <entry key="md" value="2" />
@@ -48,7 +39,7 @@
           <entry key="JSON" value="3" />
           <entry key="Markdown" value="2" />
           <entry key="PHP" value="34" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
@@ -56,7 +47,7 @@
         <counts>
           <entry key="css" value="123" />
           <entry key="dummy" value="17" />
-          <entry key="env" value="28" />
+          <entry key="env" value="37" />
           <entry key="md" value="106" />
           <entry key="php" value="5098" />
         </counts>
@@ -67,7 +58,7 @@
           <entry key="CSS" value="123" />
           <entry key="Markdown" value="106" />
           <entry key="PHP" value="2467" />
-          <entry key="PLAIN_TEXT" value="62" />
+          <entry key="PLAIN_TEXT" value="71" />
         </counts>
       </usages-collector>
     </session>
@@ -128,7 +119,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -136,6 +127,15 @@
                 <caret line="32" column="94" selection-start-line="32" selection-start-column="94" selection-end-line="32" selection-end-column="94" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -185,7 +185,6 @@
         <option value="$PROJECT_DIR$/public/css/app.css" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/database/migrations/2018_12_19_193944_create_songs_table.php" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/database/migrations/2018_12_19_200234_create_moods_table.php" />
         <option value="$PROJECT_DIR$/database/seeds/MoodsTableSeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
@@ -211,6 +210,7 @@
         <option value="$PROJECT_DIR$/resources/views/updatesong.blade.php" />
         <option value="$PROJECT_DIR$/public/css/p4.css" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/.env" />
       </list>
     </option>
   </component>
@@ -448,12 +448,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545244853537</updated>
       <workItem from="1545244855060" duration="1397000" />
-      <workItem from="1545246640604" duration="28456000" />
+      <workItem from="1545246640604" duration="28904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29853000" />
+    <option name="totallyTimeSpent" value="30301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -490,13 +490,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -701,6 +694,13 @@
             <caret line="32" column="94" selection-start-line="32" selection-start-column="94" selection-end-line="32" selection-end-column="94" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
         </state>
       </provider>
     </entry>
