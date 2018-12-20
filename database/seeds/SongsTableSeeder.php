@@ -13,7 +13,6 @@ class SongsTableSeeder extends Seeder
     {
         $songs = [
             ["Dreams", "Fleetwood Mac", "Rumours", "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m?si=JislDlHFQ_a53HvWWSNBpw", "https://i.scdn.co/image/9e1484c528939f05c09f062fd482d7d07a7bf263"],
-            ["September", "Earth, Wind & Fire", "The Eternal Dance", "https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY?si=btfrTWz5SjasUprNw7VOWA", "https://i.scdn.co/image/9a29e448a04544a6d05cec4f152333381bb96a0c"],
             ["Herside Story", "Hare Squead", "Supernormal - EP", "https://open.spotify.com/track/5dlZero0Alg0iLaIYWbVUP", "https://i.scdn.co/image/642a2974eb78ca941df3737c6a51d59ae1385a53"],
             ["Bohemian Rhapsody", "Queen", "A Night at the Opera", "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J", "https://i.scdn.co/image/f6e02ce8bc9e91afa0e220703072c20bf72c72c5"],
             ["Better", "Khalid", "Suncity", "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ", "https://i.scdn.co/image/745289626882a42ef6e89ccc2ea06110518fb23c"],

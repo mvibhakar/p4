@@ -13,7 +13,7 @@ class MoodSongTableSeeder extends Seeder
     public function run()
     {
         $moods = [
-            'Sunset' => ["Dreams", "September", "Royals", "What About Us", "Better"],
+            'Sunset' => ["Dreams", "Royals", "What About Us", "Better"],
             'Sunday Morning' => ["Dreams", "Hello", "Herside Story", "Bohemian Rhapsody", "Crazy"]
         ];
 
